@@ -37,6 +37,21 @@
           "time": "1:00 PM"
         }
       ]
-    }
+    },
+    {
+      "transportation": 
+      [{
+        "cost": "150",
+        "mode": "car"
+      },
+      {
+        "cost": "90",
+        "mode": "bike"
+      },
+      {
+        "cost": "500",
+        "mode": "plane"
+      }
+      ]}
   ]
 }

@@ -1,0 +1,4 @@
+1. I wanted to nest certain details to ensure organization and it helps with further abstraction of the data.
+2. I used arrays for activities to list out the types and type as objects in an array. Then for the destinations, they are also in a larger array that spans the whole JSON object. Each full itinerary is its own object in the array.
+3. I think this would be simple to include in either additional objects or arrays in each larger trip object. You could include things like local restaurants, extended activities and people on the trip.
+4. I think this data would be useful for storing and updating travel information for real time applications like travel websites or agencies.
